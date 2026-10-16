@@ -1,0 +1,6 @@
+aiogram==3.18.0
+ccxt
+pandas
+pandas-ta
+requests
+aiohttp
